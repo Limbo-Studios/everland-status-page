@@ -94,35 +94,39 @@
     "url": "https://auth.everland.lsmp.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.everland.lsmp.tech.ico",
     "slug": "main-limbo-auth-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 330,
     "timeDay": 330,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-04": 0
+    }
   },
   {
     "name": "Limbo Yggdrasil",
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 58,
     "timeDay": 58,
     "timeWeek": 58,
     "timeMonth": 58,
     "timeYear": 58,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-04": 0
+    }
   }
 ]
