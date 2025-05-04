@@ -1,36 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Limbo-Studios # Your GitHub organization or username, where this repository lives
+repo: limbo-status-page # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Limbo Yggdrasil Multiplayer Session Service
+    url: https://minecraft.everland.lsmp.tech
+    expectedStatusCodes:
+      - 200
+  - name: Limbo Yggdrasil Authserver
+    url: https://minecraft.everland.lsmp.tech
+    expectedStatusCodes:
+      - 200
+  - name: Mojang Multiplayer Session Service
+    url: http://session.minecraft.net
+    expectedStatusCodes:
+      - 404
+  - name: Skins
+    url: https://minecraft.everland.lsmp.tech
+    expectedStatusCodes:
+      - 200
+  - name: Limbo Yggdrasil Public API
+    url: https://minecraft.everland.lsmp.tech/authlib-injector
+  - name: Main LimboAuth Website
+    url: https://auth.everland.lsmp.tech/
+    expectedStatusCodes:
+      - 200
+      - 200
+  - name: Limbo Yggdrasil
+    url: https://minecraft.everland.lsmp.tech
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.lsmp.tech
+  #baseUrl: /limbo-status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Página de estado de los servicios de Limbo
+  introTitle: "Everland Launcher utiliza esta página para obtener el estado de la API de Yggdrasil en LimboAuth."
+  introMessage: No somos Mojang o Microsoft
   navbar:
-    - title: Status
+    - title: Inicio
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
