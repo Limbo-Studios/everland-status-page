@@ -94,19 +94,19 @@
     "url": "https://auth.everland.lsmp.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.everland.lsmp.tech.ico",
     "slug": "main-limbo-auth-website",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 330,
-    "timeDay": 330,
-    "timeWeek": 330,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "status": "up",
+    "uptime": "66.71%",
+    "uptimeDay": "66.71%",
+    "uptimeWeek": "66.71%",
+    "uptimeMonth": "66.71%",
+    "uptimeYear": "66.71%",
+    "time": 309,
+    "timeDay": 309,
+    "timeWeek": 309,
+    "timeMonth": 309,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-05-04": 0
+      "2025-05-04": 35
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 58,
-    "timeDay": 58,
-    "timeWeek": 58,
-    "timeMonth": 58,
-    "timeYear": 58,
+    "status": "up",
+    "uptime": "66.70%",
+    "uptimeDay": "66.70%",
+    "uptimeWeek": "66.70%",
+    "uptimeMonth": "66.70%",
+    "uptimeYear": "66.70%",
+    "time": 55,
+    "timeDay": 55,
+    "timeWeek": 55,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {
-      "2025-05-04": 0
+      "2025-05-04": 35
     }
   }
 ]
