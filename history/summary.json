@@ -4,36 +4,40 @@
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil-multiplayer-session-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 223,
     "timeDay": 200,
     "timeWeek": 224,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-18": 3
+    }
   },
   {
     "name": "Limbo Yggdrasil Authserver",
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil-authserver",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 53,
     "timeDay": 51,
     "timeWeek": 55,
     "timeMonth": 53,
     "timeYear": 53,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-18": 2
+    }
   },
   {
     "name": "Mojang Multiplayer Session Service",
@@ -58,46 +62,50 @@
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "skins",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 52,
     "timeDay": 51,
     "timeWeek": 54,
     "timeMonth": 52,
     "timeYear": 52,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-18": 2
+    }
   },
   {
     "name": "Limbo Yggdrasil Public API",
     "url": "https://minecraft.everland.lsmp.tech/authlib-injector",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil-public-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 53,
     "timeDay": 51,
     "timeWeek": 54,
     "timeMonth": 53,
     "timeYear": 53,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-18": 1
+    }
   },
   {
     "name": "Main LimboAuth Website",
     "url": "https://auth.everland.lsmp.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.everland.lsmp.tech.ico",
     "slug": "main-limbo-auth-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
     "time": 341,
@@ -106,6 +114,7 @@
     "timeMonth": 341,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2025-05-18": 1,
       "2025-05-04": 35
     }
   },
@@ -114,18 +123,19 @@
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil",
-    "status": "up",
-    "uptime": "99.82%",
+    "status": "down",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 52,
     "timeDay": 51,
     "timeWeek": 54,
     "timeMonth": 52,
     "timeYear": 52,
     "dailyMinutesDown": {
+      "2025-05-18": 0,
       "2025-05-04": 35
     }
   }
