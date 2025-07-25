@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 215,
+    "time": 214,
     "timeDay": 202,
-    "timeWeek": 212,
-    "timeMonth": 218,
-    "timeYear": 215,
+    "timeWeek": 208,
+    "timeMonth": 219,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2025-05-18": 155
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 53,
-    "timeDay": 50,
-    "timeWeek": 54,
-    "timeMonth": 54,
+    "timeDay": 51,
+    "timeWeek": 53,
+    "timeMonth": 55,
     "timeYear": 53,
     "dailyMinutesDown": {
       "2025-05-18": 154
@@ -45,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/session.minecraft.net.ico",
     "slug": "mojang-multiplayer-session-service",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 104,
-    "timeWeek": 115,
-    "timeMonth": 125,
+    "timeDay": 99,
+    "timeWeek": 99,
+    "timeMonth": 123,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2025-07-24": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Skins",
@@ -72,7 +70,7 @@
     "uptimeYear": "99.87%",
     "time": 52,
     "timeDay": 51,
-    "timeWeek": 55,
+    "timeWeek": 54,
     "timeMonth": 53,
     "timeYear": 52,
     "dailyMinutesDown": {
@@ -92,7 +90,7 @@
     "uptimeYear": "99.87%",
     "time": 52,
     "timeDay": 51,
-    "timeWeek": 54,
+    "timeWeek": 53,
     "timeMonth": 53,
     "timeYear": 52,
     "dailyMinutesDown": {
@@ -111,9 +109,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.80%",
     "time": 332,
-    "timeDay": 307,
-    "timeWeek": 310,
-    "timeMonth": 310,
+    "timeDay": 305,
+    "timeWeek": 308,
+    "timeMonth": 311,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2025-07-21": 26,
@@ -135,7 +133,7 @@
     "uptimeYear": "99.84%",
     "time": 52,
     "timeDay": 51,
-    "timeWeek": 54,
+    "timeWeek": 53,
     "timeMonth": 53,
     "timeYear": 52,
     "dailyMinutesDown": {
