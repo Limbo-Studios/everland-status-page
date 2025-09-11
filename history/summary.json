@@ -4,9 +4,9 @@
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil-multiplayer-session-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -16,6 +16,7 @@
     "timeMonth": 229,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2025-09-11": 0,
       "2025-05-18": 155
     }
   },
