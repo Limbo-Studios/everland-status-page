@@ -4,9 +4,9 @@
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil-multiplayer-session-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 513,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2026-01-03": 0,
       "2025-05-18": 155
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil-authserver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -36,6 +37,7 @@
     "timeMonth": 47,
     "timeYear": 59,
     "dailyMinutesDown": {
+      "2026-01-03": 0,
       "2025-05-18": 154
     }
   },
@@ -64,9 +66,9 @@
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "skins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -76,6 +78,7 @@
     "timeMonth": 160,
     "timeYear": 65,
     "dailyMinutesDown": {
+      "2026-01-03": 0,
       "2025-05-18": 154
     }
   },
@@ -84,9 +87,9 @@
     "url": "https://minecraft.everland.lsmp.tech/authlib-injector",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil-public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -96,6 +99,7 @@
     "timeMonth": 47,
     "timeYear": 51,
     "dailyMinutesDown": {
+      "2026-01-03": 0,
       "2025-05-18": 153
     }
   },
@@ -104,9 +108,9 @@
     "url": "https://auth.everland.lsmp.tech/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.everland.lsmp.tech.ico",
     "slug": "main-limbo-auth-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -116,6 +120,7 @@
     "timeMonth": 297,
     "timeYear": 337,
     "dailyMinutesDown": {
+      "2026-01-03": 0,
       "2025-07-21": 26,
       "2025-07-08": 25,
       "2025-05-18": 153,
@@ -127,9 +132,9 @@
     "url": "https://minecraft.everland.lsmp.tech",
     "icon": "https://icons.duckduckgo.com/ip3/minecraft.everland.lsmp.tech.ico",
     "slug": "limbo-yggdrasil",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -139,6 +144,7 @@
     "timeMonth": 48,
     "timeYear": 52,
     "dailyMinutesDown": {
+      "2026-01-03": 0,
       "2025-05-18": 152,
       "2025-05-04": 35
     }
